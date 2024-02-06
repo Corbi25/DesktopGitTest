@@ -1,6 +1,6 @@
 ﻿using System;
 
-static void Pija(string[] args)
+static void Main(string[] args)
 {
     Console.WriteLine("Números menores que 1000 donde la suma y el producto de los dígitos coinciden:");
     int[] numerosCoincidentes = new int[1000]; 
